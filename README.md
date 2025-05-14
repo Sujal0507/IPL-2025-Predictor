@@ -1,4 +1,5 @@
- IPL Match Outcome Predictor (2008–2024)
+** IPL Match Outcome Predictor (2008–2024)**
+
 A Machine Learning project that predicts the winning team of an IPL match using historical match data and match conditions. Built with a Logistic Regression model and deployed using Streamlit.
 
 
